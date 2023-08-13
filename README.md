@@ -3,4 +3,4 @@
 </h1>
 
 ## 🔰 Beginner 
-- [Day 1:](https://github.com/xnkit69/100/blob/ANKIT/day01/main.py) Working with Variables in Python to Manage Data
+- [Day 1:](https://github.com/xnkit69/100/tree/ANKIT/day01%20) Working with Variables in Python to Manage Data
