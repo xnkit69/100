@@ -5,3 +5,4 @@
 ## 🔰 Beginner 
 - [Day 1:](https://github.com/xnkit69/100/tree/ANKIT/day01%20) Working with Variables in Python to Manage Data
 - [Day 2:](https://github.com/xnkit69/100/tree/ANKIT/day02%20) Understanding Data Types and How to Manipulate Strings
+- [Day 3:](https://github.com/xnkit69/100/tree/ANKIT/day03%20) Control Flow and Logical Operators
